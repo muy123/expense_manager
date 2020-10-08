@@ -12,7 +12,7 @@ Spending Tracker Android application build with Material Design UI and Firebase
 * Made with Google's Material Design UI
 
 ### Clone this repository
-Start with cloning this repository and import project in Android Studio. An error with missing Google Play Services configuration will appear - google-services.json will be downloaded in next step.
+Start with cloning this repository and import project in Android Studio.
 
 ### Create new Firebase project
 1. Log in to [Firebase console](https://console.firebase.google.com/)
